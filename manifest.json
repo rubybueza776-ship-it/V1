@@ -1,0 +1,13 @@
+{
+  "name": "SchoolTrack EAPIHS Offline Inventory",
+  "short_name": "SchoolTrack",
+  "description": "Offline school inventory system for EAPIHS",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5eee5",
+  "theme_color": "#54251f",
+  "icons": [
+    {"src":"./icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
